@@ -7,8 +7,8 @@ android {
         applicationId "com.vedantinfinity.babble"
         minSdkVersion 16
         targetSdkVersion 28
-        versionCode 2
-        versionName "Babble 0.1"
+        versionCode 4
+        versionName "Babble 4.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
