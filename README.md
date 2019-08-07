@@ -75,7 +75,7 @@ Note: You can also copy-paste the files into Android Studios without going into 
   - What language would you like to use to write Cloud Functions? Answer:JavaScript
   - Do you want to use ESLint to catch probable bugs and enforce style? Answer:No
   - Do you want to install dependencies with npm now? Answer:Yes
-12. If you had cloned the repo, then you can ignore this step (ignore step 12 only). For those who copy-pasted the files, got to your projects subdirectory app/functions and add the index.js file in the functions directory.
+12. If you had cloned the repo, then you can ignore this step (ignore step 12 only). For those who copy-pasted the files, got to your projects subdirectory app/functions and copy-paste the contents of the repo's index.js file to your index.js file in the functions directory. This is for the notifications.
 13. Now, go to Firebase and select the 'Add App' option. Choose Android app and fill in the details. When asked to download the google-services.json file, place it under the app subdirectory. Then do the third step as it tells you. You can skip the fourth step of communicating with Google's servers.
 14. Go to the file ChatActivity.java. Under the method 'onActivityResult', you will see a StorageReference variable called photoRef. Got to your Firebase project's Firebase Storage and paste the link there in place of the link in the '.getReferenceFrom('gs://...')' StorageReference.
 
