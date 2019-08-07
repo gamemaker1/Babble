@@ -14,11 +14,7 @@ Want an open source alternative to Whatsapp to stay in touch with small groups -
 
 
 # Installation
-Go to Google Play Store and search for 'Babble Open Source Chat App'. The official name is Babble Open Source Chat App, with the following icon -
-
-
-
-# How to create your own instance of Firebase
+Go to Google Play Store and search for 'Babble Open Source Chat App'.
 
 
 # Known issues
