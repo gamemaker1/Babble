@@ -1,4 +1,4 @@
-# ![Babble][https://github.com/gamemaker1/Babble/Screenshots/chat.png]  Babble
+# ![Babble][Screenshots/chat.png]  Babble
 Want an open source alternative to Whatsapp to stay in touch with small groups - your family, friends, office groups? This is an open source chat app built for Android using Firebase as the backend. You can change the code to point to your own instance of Firebase - that will make your data completely private to you. 
 
 # Features
