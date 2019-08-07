@@ -18,6 +18,43 @@ Want an open source alternative to Whatsapp to stay in touch with small groups -
 **Privacy** - This app uses [Firebase](https://firebase.google.com/) to manage authentication and store its data. Firebase is completely secure and trusted by a large number of tech companies. None of your data is sold to any other companies. Ideally you should host it on your own instance of Firebase to keep data extremely private to yourself. If you directly use the app from the Playstore, it will be using a common instance of Firebase (which is secure and your data safe). 
 
 
+# Screenshots
+<img src="https://github.com/gamemaker1/Babble/blob/master/Screenshots/Sign-up.png?raw=true"
+       alt="Babble's Logo"
+       style="float: left; margin-right: 10px;"
+       width="200" />
+<img src="https://github.com/gamemaker1/Babble/blob/master/Screenshots/Group-screen.png?raw=true"
+       alt="Babble's Logo"
+       style="float: left; margin-right: 10px;"
+       width="200" />
+<img src="https://github.com/gamemaker1/Babble/blob/master/Screenshots/Add-group.png?raw=true"
+       alt="Babble's Logo"
+       style="float: left; margin-right: 10px;"
+       width="200" />
+<img src="https://github.com/gamemaker1/Babble/blob/master/Screenshots/Chat-screen-with-message.png?raw=true"
+       alt="Babble's Logo"
+       style="float: left; margin-right: 10px;"
+       width="200" />
+<img src="https://github.com/gamemaker1/Babble/blob/master/Screenshots/Todo-screen.png?raw=true"
+       alt="Babble's Logo"
+       style="float: left; margin-right: 10px;"
+       width="200" />
+<img src="https://github.com/gamemaker1/Babble/blob/master/Screenshots/Item-detail-screen.png?raw=true"
+       alt="Babble's Logo"
+       style="float: left; margin-right: 10px;"
+       width="200" />
+<img src="https://github.com/gamemaker1/Babble/blob/master/Screenshots/Menu-chat.png?raw=true"
+       alt="Babble's Logo"
+       style="float: left; margin-right: 10px;"
+       width="200" />
+<img src="https://github.com/gamemaker1/Babble/blob/master/Screenshots/Single-notification.png?raw=true"
+       alt="Babble's Logo"
+       style="float: left; margin-right: 10px;"
+       width="200" />
+       
+
+
+
 # Installation
 Go to Google Play Store and search for 'Babble Open Source Chat App'.
 
