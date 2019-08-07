@@ -62,7 +62,7 @@ Go to Google Play Store and search for 'Babble Open Source Chat App'.
 To create your own database and storage on Firebase, follow these steps - (Ones in bold are mandatory and very important)
 1. Download [Android Studios](https://developer.android.com/studio#downloads) on Linux, Mac, or Windows.
 2. Open up Android Studios and click on 'Create A New Project'.
-3. **Enter your own unique package name and app nickname. Also enable androidx artifacts**
+3. **Enter your own unique package name and app nickname. Also enable androidx artifacts for your project.**
 4. Now open terminal. Go to the project directory and clone this repository into the directory by typing in `git clone https://github.com/gamemaker1/Babble`.
 Note: You can also copy-paste the files into Android Studios without going into Terminal, but remember to copy the .java and res files. Copy the gradle dependencies only, and that too after step 13.
 5. **Got to Android Studios and change the package name of each of the _.java_ files and the Android Manifest file to the one you had entered earlier while creating the project.**
