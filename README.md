@@ -14,7 +14,11 @@ Want an open source alternative to Whatsapp to stay in touch with small groups -
 
 
 # Installation
-If you want to try out the app, you can go to the folder app in this repository. In this folder, you will see two subfolders called debug and release, which contain all APKs of this app. The debug APKs are test versions and may crash when you install them. The release APKs are the final, stable and working versions which you can use on an Android phone. You can also visit find the APKs on  [Google Drive](https://drive.google.com/drive/folders/1nfq-ev7lQocCzXPWawOEtufk8GHn-_U8?usp=sharing).
+Go to Google Play Store and search for 'Babble Open Source Chat App'. The official name is Babble Open Source Chat App, with the following icon -
+
+
+
+# How to create your own instance of Firebase
 
 
 # Known issues
