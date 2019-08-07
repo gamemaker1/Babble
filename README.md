@@ -1,5 +1,6 @@
 <p align="center">
-  ![Babble's Logo](https://github.com/gamemaker1/Babble/blob/master/Screenshots/chat.png?raw=true)
+  <img src="https://github.com/gamemaker1/Babble/blob/master/Screenshots/chat.png?raw=true"
+       alt="Babble's Logo"/>
 </p>
 
 # Babble
