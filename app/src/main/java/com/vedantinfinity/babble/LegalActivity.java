@@ -11,6 +11,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 */
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -40,6 +41,9 @@ public class LegalActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_legal);
+
+        setTitle("Legal Information For Babble");
+
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

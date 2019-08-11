@@ -574,6 +574,9 @@ public class GroupsActivity extends AppCompatActivity {
                     });
             }
 
+        } else if (item.getItemId() == R.id.legal) {
+            Intent intent = new Intent(GroupsActivity.this, LegalActivity.class);
+            startActivity(intent);
         }
         return true;
     }
