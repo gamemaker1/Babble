@@ -869,7 +869,9 @@ public class TodoActivity extends AppCompatActivity {
             startActivity(intent);
         */
         } else if (item.getItemId() == android.R.id.home) {
-            onBackPressed();
+            Intent backIntent = new Intent(TodoActivity.this, ChatActivity.class);
+            backIntent.putStringArrayListExtra("bubbleInfo", bubbleInfo);
+            startActivity(backIntent);
         }
         return true;
     }
