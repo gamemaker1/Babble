@@ -1,31 +1,31 @@
 <resources>
-    <string name="app_name">Babble</string>
-    <string name="sign_out">Sign out</string>
-    <string name="delete_account">Delete Account</string>
-    <string name="message_prompt">Enter Message</string>
-    <string name="add_task_button">Add Task</string>
-    <string name="title_activity_todo">TodoActivity</string>
-    <string name="todo_description">Create A Task To Be Done</string>
-    <string name="claim_task_button">Claim Task</string>
-    <string name="completed_task_button">Completed Task</string>
-    <string name="title_activity_item_detail">ItemDetail</string>
-    <string name="channel_name">Message Notification</string>
-    <string name="channel_description">Notifies you when you receive a message</string>
-    <string name="add_group_button">Add Group</string>
-    <string name="add_people_prompt">Enter a friend\'s e-mail address</string>
-    <string name="add_group_prompt">Enter a name for your Bubble</string>
-    <string name="delete_group">Leave Group</string>
-    <string name="add_user_prompt">Add a friend to your Bubble</string>
-    <string name="add_user_email_prompt">Enter their email</string>
-    <string name="add_user">Add Friend</string>
-    <string name="add_friend_button">Add Friend</string>
-    <string name="legal">Legal</string>
-    <string name="legal_info"><b>Babble Open Source Chat App</b>\n\n<b>Copyright (C) 2019 Vedant K</b>\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.\n\n<b>Icons and Images</b>\n\nThe icons here were taken from "The Noun Project" on www.thenounproject.com and "Flaticon" on www.flaticon.com\nColours were chosen using the help of the "Material Design - Colour Picker" on www.material.io/tools/color/\n\n </string>
-    <string name="group_info">Group Info</string>
-    <string name="default_notification_channel_id">babbling_bubble</string>
-    <string name="choose_type">Choose to add it as a todo or send it as a message -</string>
-    <string name="add_todo">Add as Todo</string>
-    <string name="add_as_message">Send as a message</string>
-    <string name="group_question">Choose the group to send it to</string>
-    <string name="group_name_placeholder"><u>Group Name</u></string>
+    <string name="app_name" translatable="false">Babble</string>
+    <string name="sign_out" translatable="false">Sign out</string>
+    <string name="delete_account" translatable="false">Delete Account</string>
+    <string name="message_prompt" translatable="false">Enter Message</string>
+    <string name="add_task_button" translatable="false">Add Task</string>
+    <string name="title_activity_todo" translatable="false">TodoActivity</string>
+    <string name="todo_description" translatable="false">Create A Task To Be Done</string>
+    <string name="claim_task_button" translatable="false">Claim Task</string>
+    <string name="completed_task_button" translatable="false">Completed Task</string>
+    <string name="title_activity_item_detail" translatable="false">ItemDetail</string>
+    <string name="channel_name" translatable="false">Message Notification</string>
+    <string name="channel_description" translatable="false">Notifies you when you receive a message</string>
+    <string name="add_group_button" translatable="false">Add Group</string>
+    <string name="add_people_prompt" translatable="false">Enter a friend\'s e-mail address</string>
+    <string name="add_group_prompt" translatable="false">Enter a name for your Bubble</string>
+    <string name="delete_group" translatable="false">Leave Group</string>
+    <string name="add_user_prompt" translatable="false">Add a friend to your Bubble</string>
+    <string name="add_user_email_prompt" translatable="false">Enter their email</string>
+    <string name="add_user" translatable="false">Add Friend</string>
+    <string name="add_friend_button" translatable="false">Add Friend</string>
+    <string name="legal" translatable="false">Legal</string>
+    <string name="legal_info" translatable="false"><b>Babble Open Source Chat App</b>\n\n<b>Copyright (C) 2019 Vedant K</b>\n\n<b>Privacy Policy</b>\nThe privacy policy for the app Babble can be found <a href="https://github.com/gamemaker1/Babble/blob/master/privacy.md">here</a>.\n\n<b>Terms Of Service</b>\nThe terms of service for the app Babble can be found <a href="https://github.com/gamemaker1/Babble/blob/master/termsofservice.md">here</a>.\n\n<b>Source Code Licensing</b>\nThe source code and its license for the app Babble can be found <a href="https://github.com/gamemaker1/Babble">here</a>.\n\n<b>Icons and Images</b>\nThe application icon was designed by <a href="https://www.freepik.com/home">Freepik</a> from <a href="www.flaticon.com">Flaticon</a>.\nVarious small icons are from <a href="www.thenounproject.com">The Noun Project</a>.\nColours were chosen using the help of the <a href="www.material.io/tools/color/">Material Design - Colour Picker</a>\n\n</string>
+    <string name="group_info" translatable="false">Group Info</string>
+    <string name="default_notification_channel_id" translatable="false">babbling_bubble</string>
+    <string name="choose_type" translatable="false">Choose to add it as a todo or send it as a message -</string>
+    <string name="add_todo" translatable="false">Add as Todo</string>
+    <string name="add_as_message" translatable="false">Send as a message</string>
+    <string name="group_question" translatable="false">Choose the group to send it to</string>
+    <string name="group_name_placeholder" translatable="false"><u>Group Name</u></string>
 </resources>

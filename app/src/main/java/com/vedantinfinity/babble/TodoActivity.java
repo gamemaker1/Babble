@@ -109,6 +109,7 @@ public class TodoActivity extends AppCompatActivity {
                                 .setAvailableProviders(providers)
                                 .setLogo(R.drawable.chat)
                                 .setTheme(R.style.AppTheme)
+                                .setTosAndPrivacyPolicyUrls("https://github.com/gamemaker1/Babble/blob/master/termsofservice.md", "https://github.com/gamemaker1/Babble/blob/master/privacy.md")
                                 .build(),
                         SIGN_IN_REQUEST_CODE);
 
